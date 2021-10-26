@@ -1,0 +1,18 @@
+2021-10-22 11:36:24.968 [main] DEBUG loggingTest.Log4J2App - Hello from Log4j 2
+2021-10-22 11:36:24.970 [main] DEBUG loggingTest.Log4J2App - This is a Debug Message!
+2021-10-22 11:36:24.971 [main] INFO  loggingTest.Log4J2App - This is an Info Message!
+2021-10-22 11:36:24.971 [main] ERROR loggingTest.Log4J2App - And here comes the Error Message!
+java.lang.RuntimeException: RunRunRun
+	at loggingTest.Log4J2App.main(Log4J2App.java:15) [classes/:?]
+2021-10-22 11:36:53.141 [main] DEBUG loggingTest.Log4J2App - Hello from Log4j 2
+2021-10-22 11:36:53.143 [main] DEBUG loggingTest.Log4J2App - This is a Debug Message!
+2021-10-22 11:36:53.144 [main] INFO  loggingTest.Log4J2App - This is an Info Message!
+2021-10-22 11:36:53.144 [main] ERROR loggingTest.Log4J2App - And here comes the Error Message!
+java.lang.RuntimeException: RunRunRun
+	at loggingTest.Log4J2App.main(Log4J2App.java:15) [classes/:?]
+2021-10-22 11:41:53.868 [main] DEBUG loggingTest.Log4J2App - Hello from Log4j 2
+2021-10-22 11:41:53.870 [main] DEBUG loggingTest.Log4J2App - This is a Debug Message!
+2021-10-22 11:41:53.870 [main] INFO  loggingTest.Log4J2App - This is an Info Message!
+2021-10-22 11:41:53.871 [main] ERROR loggingTest.Log4J2App - And here comes the Error Message!
+java.lang.RuntimeException: RunRunRun
+	at loggingTest.Log4J2App.main(Log4J2App.java:15) [classes/:?]
